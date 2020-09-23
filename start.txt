@@ -1,3 +1,0 @@
-Test Git quick start demo
-Hello World, It's Sunday Funday
-Let's have some fun
